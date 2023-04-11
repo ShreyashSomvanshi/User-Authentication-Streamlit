@@ -3,4 +3,4 @@ wheel
 pandas
 pysqlite3-wheels
 pysqlite3 
-libsqlite3-dev
+
